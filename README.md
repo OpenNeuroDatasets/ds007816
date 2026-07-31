@@ -8,6 +8,8 @@
 <p><strong>Overview</strong></p>
 <p>This dataset contains high-density diffuse optical tomography (HD-DOT) and functional MRI (fMRI) data from six healthy adult participants. DOT data were collected across three imaging sessions, and fMRI data were collected in a separate fourth session. Participants passively viewed silent natural movie clips, totaling 120 minutes of unique training content and 90 minutes of repeated test content (10 minutes per run). All movie stimuli were drawn from Nishimoto et al. (2011); the semantic labels were drawn from Huth et al. (2012). The test set contains a 1-minute deviation from the original Nishimoto et al. (2011) stimulus set (clip 8, seconds 421–480), for which semantic labels were generated separately following the annotation methods described in Huth et al. (2012).</p>
 
+<p>Data were acquired on a custom-built, whole-head Very High-Density Diffuse Optical Tomography (VHD-DOT) system Fogarty et al. (2025) at Washington University in St. Louis, USA. The continuous-wave system included 255 source positions (685 and 830 nm) and 252 avalanche photodiode detectors coupled to the head using optic fiber bundles. The imaging cap provided a first-nearest-neighbor separation of ∼9.75 mm, yielding 9,160 possible measurements with source-detector separations ≤40 mm across both wavelengths. </p> 
+
 <p><strong>Stimuli and task design</strong></p>
 <p>Training movies comprised 12 unique 10-minute runs (Trn001–Trn012). Event files (events.tsv) label these as TRAINMOVIE.</p>
 <p>Test movies comprised nine unique 1-minute clips, each repeated 10 times across three sessions. Each session covered three consecutive clips: session 1 covered clips 1–3, session 2 clips 4–6, and session 3 clips 7–9, with 3–4 repetitions per run. In filenames, test movie runs are labeled Val<em>S</em>c<em>N</em> where <em>S</em> is the session number (1–3) and <em>N</em> is the clip index within that session (1–3); for example, Val2c1 refers to the first clip of session 2 (clip 4 of the full test set). Event files use the session-relative labels TESTMOVIECLIP1, TESTMOVIECLIP2, TESTMOVIECLIP3, which map to the same indexing.</p>
@@ -35,6 +37,7 @@
 </ul>
 
 <p><strong>References</strong></p>
+<p>Fogarty, M., Rafferty, S. M., Markow, Z. E., O’Sullivan, A. C., Svoboda, C. F., George, T., King, K., Wilhelm, D., Tripathy, K., Mugler, E. M., Naufel, S., Yin, A., Trobaugh, J. W., Eggebrecht, A. T., Richter, E. J., & Culver, J. P. (2025). Functional brain mapping using whole-head very high-density diffuse optical tomography. <em>Imaging Neuroscience</em>, 3. href="https://doi.org/10.1162/imag.a.54">https://doi.org/10.1162/imag.a.54</a>‌</p>
 <p>Huth, A. G., Nishimoto, S., Vu, A. T., &amp; Gallant, J. L. (2012). A continuous semantic space describes the representation of thousands of object and action categories across the human brain. <em>Neuron</em>, 76(6), 1210–1224. <a href="https://doi.org/10.1016/j.neuron.2012.10.014">https://doi.org/10.1016/j.neuron.2012.10.014</a></p>
 <p>Nishimoto, S., Vu, A. T., Naselaris, T., Benjamini, Y., Yu, B., &amp; Gallant, J. L. (2011). Reconstructing visual experiences from brain activity evoked by natural movies. <em>Curr Biol</em>, 21(19), 1641–1646. <a href="https://doi.org/10.1016/j.cub.2011.08.031">https://doi.org/10.1016/j.cub.2011.08.031</a></p>
 
