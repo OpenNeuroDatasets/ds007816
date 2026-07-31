@@ -37,7 +37,8 @@
 </ul>
 
 <p><strong>References</strong></p>
-<p>Fogarty, M., Rafferty, S. M., Markow, Z. E., O’Sullivan, A. C., Svoboda, C. F., George, T., King, K., Wilhelm, D., Tripathy, K., Mugler, E. M., Naufel, S., Yin, A., Trobaugh, J. W., Eggebrecht, A. T., Richter, E. J., & Culver, J. P. (2025). Functional brain mapping using whole-head very high-density diffuse optical tomography. <em>Imaging Neuroscience</em>, 3. href="https://doi.org/10.1162/imag.a.54">https://doi.org/10.1162/imag.a.54</a>‌</p>
+<p>Fogarty, M., Rafferty, S. M., Markow, Z. E., O’Sullivan, A. C., Svoboda, C. F., George, T., King, K., Wilhelm, D., Tripathy, K., Mugler, E. M., Naufel, S., Yin, A., Trobaugh, J. W., Eggebrecht, A. T., Richter, E. J., & Culver, J. P. (2025). Functional brain mapping using whole-head very high-density diffuse optical tomography. <em>Imaging Neuroscience</em>, 3. <a
+href="https://doi.org/10.1162/imag.a.54">https://doi.org/10.1162/imag.a.54</a>‌</p>
 <p>Huth, A. G., Nishimoto, S., Vu, A. T., &amp; Gallant, J. L. (2012). A continuous semantic space describes the representation of thousands of object and action categories across the human brain. <em>Neuron</em>, 76(6), 1210–1224. <a href="https://doi.org/10.1016/j.neuron.2012.10.014">https://doi.org/10.1016/j.neuron.2012.10.014</a></p>
 <p>Nishimoto, S., Vu, A. T., Naselaris, T., Benjamini, Y., Yu, B., &amp; Gallant, J. L. (2011). Reconstructing visual experiences from brain activity evoked by natural movies. <em>Curr Biol</em>, 21(19), 1641–1646. <a href="https://doi.org/10.1016/j.cub.2011.08.031">https://doi.org/10.1016/j.cub.2011.08.031</a></p>
 
