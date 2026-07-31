@@ -29,8 +29,9 @@
 
 <p><strong>Notes</strong></p>
 <ul>
-  <li>Model weights and analysis scripts accompanying the manuscript are available at [TBD].</li>
-  <li>See the manuscript for full acquisition and preprocessing details.</li>
+  <li>Model weights and analysis scripts accompanying this work are available at the associated G-Node GIN repository, <a href="https://gin.g-node.org/wfehner/visual-semantic-hddot">https://gin.g-node.org/wfehner/visual-semantic-hddot</a> (<a href="https://doi.org/10.12751/g-node.qf5ttf">DOI: 10.12751/g-node.qf5ttf</a>).</li>
+  <li>See the associated preprint for full acquisition and preprocessing details.</li>
+  <li><strong>Associated preprint.</strong> Fehner, W., Fogarty, M., Tang, J., Wilhelm, D., Bajracharya, A., Markow, Z. E., Hines, A., Trobaugh, J. W., Huth, A. G., &amp; Culver, J. P. (2025). Visual Semantic Encoding and Identification of Naturalistic Movies via High-Density Diffuse Optical Tomography. <a href="https://doi.org/10.64898/2025.12.03.692158">https://doi.org/10.64898/2025.12.03.692158</a></li>
 </ul>
 
 <p><strong>References</strong></p>
