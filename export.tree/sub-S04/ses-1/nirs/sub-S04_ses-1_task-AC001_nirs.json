@@ -1,0 +1,8 @@
+{
+  "TaskName": "AC001",
+  "SamplingFrequency": 7.8125,
+  "NIRSChannelCount": 19708,
+  "NIRSSourceOptodeCount": 255,
+  "NIRSDetectorOptodeCount": 252,
+  "RecordingDuration": 787.1
+}
