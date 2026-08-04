@@ -1,8 +1,0 @@
-{
-  "TaskName": "Trn004",
-  "SamplingFrequency": 7.8125,
-  "NIRSChannelCount": 20408,
-  "NIRSSourceOptodeCount": 255,
-  "NIRSDetectorOptodeCount": 252,
-  "RecordingDuration": 789.5
-}
