@@ -1,0 +1,8 @@
+{
+  "TaskName": "Val001c1",
+  "SamplingFrequency": 7.8125,
+  "NIRSChannelCount": 23370,
+  "NIRSSourceOptodeCount": 255,
+  "NIRSDetectorOptodeCount": 252,
+  "RecordingDuration": 666.6
+}
